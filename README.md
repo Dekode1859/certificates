@@ -49,7 +49,7 @@
 
 ### ☁️ Cloud & Data Analytics
 
-<details>
+<details open>
 <summary><b>AWS Certifications</b></summary>
 
 - **[AWS Academy Data Analytics](https://aws.amazon.com)** - Amazon Web Services
@@ -64,11 +64,11 @@
   - Skills: Machine Learning, Data Analysis
   - Issued: Oct 2022
 
-</details>
+</details open>
 
 ### 🔬 Machine Learning & Data Science
 
-<details>
+<details open>
 <summary><b>Machine Learning Fundamentals</b></summary>
 
 - **[Machine Learning with Python](https://www.coursera.org)** - Coursera
@@ -90,7 +90,7 @@
 
 ### 🎯 NVIDIA Deep Learning Institute
 
-<details>
+<details open>
 <summary><b>Specialized AI Applications</b></summary>
 
 - **[Disaster Risk Monitoring Using Satellite Imagery](https://www.nvidia.com/dli)** - NVIDIA
@@ -122,7 +122,7 @@
 
 ### 💼 Professional Development
 
-<details>
+<details open>
 <summary><b>Digital Marketing & Software Engineering</b></summary>
 
 - **[Google Digital Marketing & E-commerce Specialization](https://www.coursera.org)** - Coursera
